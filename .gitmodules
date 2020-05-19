@@ -1,0 +1,3 @@
+[submodule "submodules/uptime"]
+	path = submodules/uptime
+	url = https://github.com/modular-discord/module-uptime.git
